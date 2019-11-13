@@ -1,0 +1,25 @@
+{
+  "name": "@pru-rt-internal/react-native-contacts-wrapper",
+  "version": "1.0.1",
+  "nativePackage": true,
+  "author": "Prudential Regional Technology",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "release": "yarn install && npm publish --non-interactive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://code.intranet.asia/scm/awb/react-native-contacts-wrapper.git"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.intranet.asia/artifactory/api/npm/npm-release/"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "contacts",
+    "address book",
+    "people"
+  ]
+}

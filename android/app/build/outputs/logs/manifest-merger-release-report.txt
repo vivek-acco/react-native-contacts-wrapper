@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:2:5-41
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/laxmichandj/Desktop/Projects/awb-ug-master-api2/workbench/node_modules/@pru-rt-internal/react-native-contacts-wrapper/android/app/src/main/AndroidManifest.xml
